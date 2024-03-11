@@ -1,0 +1,1 @@
+Update Product set CategoryId = 11 where CategoryId = 1001
